@@ -78,6 +78,8 @@ nav ul li a:hover {
     text-indent: 1.5em;
 }
 
+
+
 figure{
     padding-top: 10px;
     text-align: center;
@@ -110,6 +112,13 @@ h3 {
     padding-bottom: 0.5em;
     padding-top: 0.5em;
 }
+
+h4{
+    text-align: left;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
 
 footer {
     width: 910px;
